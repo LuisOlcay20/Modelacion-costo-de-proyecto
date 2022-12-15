@@ -25,7 +25,7 @@ varía significativamente. Por último se cumple la expectativa con una correlac
 que a medida que aumenta el costo por kilómetro, el costo total de la inversión también va a
 aumentar.
 
-Para el modelo decidimos utilizar strata = stations debido a que aumentaba
+Para el modelo se decidio utilizar strata = stations debido a que aumentaba
 significativamente el R2 obtenido. Del resultado obtenido podemos notar que todas
 las variables son significativas estadísticamente al 5%, pero el intercepto no es
 estadísticamente distinto de 0. De todas maneras dado que su coeficiente estimado
